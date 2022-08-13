@@ -510,6 +510,11 @@ img {
         justify-items: center
     }
 }
+@media screen and (min-width: 1519px) {
+    .home__img {
+        margin-right: 300px;
+    }
+}
 @media screen and (min-width: 1903px) {
     .home__img {
         margin-right: 400px;
